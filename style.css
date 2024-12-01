@@ -1,0 +1,117 @@
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+.Viva{
+font-size: 35px;
+text-align: center;
+color: rgb(19, 212, 19);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.fondo {
+  height: 50%;
+  width: 50%;
+margin-left: 500px;
+}
+.Rosario{
+  font-size: 20px;
+ width: 50%;
+ text-align: center;
+ margin-left: 25%;
+color: black;
+
+}
+
+
+
+.coros {
+    background-color: rgb(74, 106, 125);
+border-radius: 100px;
+text-align: center;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(238, 246, 237);
+width: 80%;
+padding-top: 100px;
+padding-bottom: 200px;
+margin-top: 20%;
+margin-left: 10%;
+
+
+}
+
+.popusas{
+    height: 150px;
+    width: 150px;
+  
+    margin-bottom: 20%;
+}
+.taquitos{
+    height: 150px;
+    width: 150px;
+
+margin-top: 10%;
+margin-bottom: 20%;
+}
+.sodas{
+    height: 150px;
+    width: 150px;
+
+    margin-bottom: 20%;
+}
+.hotdog{
+    height: 150px;
+    width: 150px;
+    
+    margin-bottom: 20%;
+}
+.corona{
+    margin-left: 25%;
+    margin-top: 10%;
+}
+    
+      
+
+.Adviento {
+
+font-size: 30px;
+color: purple;
+text-align: center;
+border-radius: 200%;
+
+}
+ 
+
+  
+ 
+
+.Posadas{
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+ color: rgb(214, 39, 39);
+ text-align: center;
+}
+  
+
+.Misas{
+    
+    font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+   
+    
+}
+.Gracias{
+    
+    text-align: center;
+    font-size: 35px;
+font-family: serif;
+border-radius: 50px;
+color: rgb(6, 106, 25);
+
+}

@@ -1,0 +1,190 @@
+{
+    padding: 0;
+    margin: 0;
+
+}
+h1{
+    text-align: center;
+    background-color: darkcyan;
+color: white;
+padding: 20px;
+margin: 50px;
+}
+nav ul {
+   text-align: start;
+ 
+    font-size: 35px;
+   
+  
+}
+
+nav li {
+   display: inline-flex;  
+}
+nav a {
+
+font-family: Arial, Helvetica, sans-serif;
+    color: rgb(223, 15, 15);
+    
+    
+}
+
+img {
+    width: 400px;
+  height: 400px;
+border-radius: 50px;
+margin-top: 100px;
+}
+.contenido {
+    display: flex;
+margin-left: 200px;
+   
+}
+.articulos {
+    width: 80%;
+border-right: 3px solid rgba(89, 225, 11, 0.59);
+}
+.Rosario1 {
+    display: flex;
+align-self: center;
+    padding: 20px;
+    font-size: 35px;
+    color: #ba1536;
+margin-right: 600px;
+
+  
+  
+}
+.menu-secundario {
+    width: 20px;
+    margin-top: 60px;
+}
+.menu-secundario a {
+display: block;
+text-align: left;
+    color: rgba(240, 5, 5, 0.728);
+    margin-bottom: 200px;
+}
+footer {
+    width: 90%;
+    height: 25%;
+    background-color: #e8e6bf;
+    color: rgb(11, 131, 55);
+ padding-bottom: 150px;
+   margin-top: -20px;
+   font-size: 25px;
+   font-family: 'Times New Roman', Times, serif;
+   border-radius: 100px;
+margin-left: -5%;
+   
+}
+footer p {
+    text-align: center;
+    padding: 50px;
+}
+
+.ventas {
+    background-color: #7cb575;
+    width: 20%;
+   text-align: center;
+   border-radius: 15%;
+font-size: xx-large;
+margin-left: 450px;
+margin-bottom: 5%;
+margin-top: 10%;
+}
+
+.coros {
+    background-color: rgb(74, 106, 125);
+border-radius: 100px;
+text-align: center;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(238, 246, 237);
+height: 15%;
+width: 80%;
+padding-bottom: 100px;
+}
+
+.popusas{
+    height: 150px;
+    width: 150px;
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
+.taquitos{
+    height: 150px;
+    width: 150px;
+margin-left: 5%;
+margin-top: 10%;
+margin-bottom: 20%;
+}
+.sodas{
+    height: 150px;
+    width: 150px;
+    margin-left: 5%;
+    margin-bottom: 20%;
+}
+.hotdog{
+    height: 150px;
+    width: 150px;
+    margin-left: 5%;
+    margin-bottom: 20%;
+}
+.corona{
+    margin-left: 39%;
+    margin-top: 10%;
+}
+    
+      
+
+.Adviento {
+  background-color: purple;
+font-size: 30px;
+color: white;
+text-align: center;
+border-radius: 200%;
+zoom: 1;
+}
+ 
+
+  
+ 
+
+.Posadas{
+    background-color: rgb(133, 15, 15);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ color: rgb(237, 238, 236);
+ text-align: center;
+ border-radius: 50px;
+ margin-left: 5%;
+margin-bottom: 10%;
+padding-bottom: 150px;
+}
+  
+
+.Misas{
+    background-color: #46b6cd;
+    height: 25%;
+    width: 90%;
+    font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 5%;
+    border-radius: 50px;
+    margin-bottom: 10%;
+    padding-bottom: 150px;
+}
+.Gracias{
+    background-color: #42bcf5;
+    height: 25%;
+    width: 90%;
+    text-align: center;
+    font-size: 20px;
+font-family: serif;
+border-radius: 50px;
+color: rgb(4, 4, 4);
+margin-left: 5%;
+padding-bottom: 150px;
+}

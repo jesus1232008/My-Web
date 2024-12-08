@@ -24,7 +24,7 @@ a {
 }
 
 .header {
-    min-height: 105vh;
+    min-height: 80vh;
     display: flex;
     align-items: center;
 }
